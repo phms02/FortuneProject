@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. FIrst, you must have the following installed on your machine:
+1. First, you must have the following installed on your machine:
     * Node.js and npm;
       * I am using Node.js v20.18.0 and npm v10.8.3;
     * React Native Expo;
