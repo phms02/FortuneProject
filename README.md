@@ -31,6 +31,14 @@
    npx expo start
     ```
 
+# Technologies
+
+<div align="center">
+   <img alt="React Native" align="center" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+   <img alt="TypeScript" align="center" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+</div>
+
 ## Video
 
 [Project.mp4](assets%2Fvideos%2FProject.mp4)
